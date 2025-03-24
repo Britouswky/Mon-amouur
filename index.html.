@@ -2,7 +2,7 @@
 <html lang="es">
 <head>
   <meta charset="UTF-8">
-  <title>Un campo de tulipanes para Ana</title>
+  <title>Un campo de tulipanes para mi catwoman version de casita argentina</title>
   <style>
     body {
       background: linear-gradient(#cce7e8, #ffffff);
@@ -73,7 +73,7 @@
 </head>
 <body>
 
-  <h1>Para ti, Ana</h1>
+  <h1>Para ti, mividap</h1>
 
   <div class="tulipanes">
     <!-- Tulipanes -->
@@ -95,14 +95,14 @@
     <div class="tulipan"></div>
   </div>
 
-  <p>Un campo de tulipanes blancos, tan puros como lo que siento por ti.<br>
-  Tres meses juntos, y apenas estamos comenzando a florecer. Feliz aniversario, mi Ana.</p>
+  <p>Un campo de tulipanes blancos, tan puros como lo que siento por ti alaberga.<br>
+  Estos 3 meses han sido el inicio de algo tan maravilloso. Feliz aniversario, mi Ana.</p>
 
   <button onclick="mostrarMensaje()">Haz clic para ver cuánto te amo</button>
 
   <div class="mensaje-sorpresa" id="mensaje">
     Cada tulipán aquí es un te amo, pero mi amor por ti no cabe en un campo, ni en mil.<br>
-    Gracias por estos tres meses, por tu risa, por tu mirada... eres mi milagro favorito.
+    Gracias por siempre estar conmigo... eres mi todo.
   </div>
 
   <script>
